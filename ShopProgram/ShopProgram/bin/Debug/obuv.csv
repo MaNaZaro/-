@@ -1,0 +1,11 @@
+Id;Price;Size;Color;Brand;Country;UnderMaterial;UpMaterial;Heel
+1;5946;39;Green;Loake;Austria;fabric;leather;true
+2;5154;36;White;Grenson;Canada;leather;suede;true
+3;15865;37;Red;Tricker’s;Argentina;fabric;nubuck;false
+4;1866;38;Yellow;Clarks;Brazil;leather;nubuck;true
+5;1545;38;Green;Barker;Belgium;leather;nubuck;false
+6;537;39;White;Cheaney;Argentina;fabric;suede;false
+7;564;36;Red;Solovair;Brazil;fabric;leather;true
+8;5164;40;Yellow;Sleep;Belgium;leather;suede;true
+9;568;36;Green;Arthur;Canada;fabric;leather;false
+10;678;39;White;Solovair;Canada;fabric;leather;true
